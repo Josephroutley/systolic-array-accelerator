@@ -5,7 +5,7 @@ This project implements a **Systolic Array** architecture to perform high-speed 
 
 The focus is on "Power, Performance, and Area" (PPA) trade-offs and computer arithmetic optimization.
 
-## Learning Objectives (NVIDIA Target Skills)
+## Learning Objectives
 * **Computer Arithmetic:** Designing efficient Multiply-Accumulate (MAC) units.
 * **Parallel Processing:** managing data flow through a grid of processing elements.
 * **PPA Optimization:** Analyzing the trade-offs between a high-performance design vs. a low-area design.
